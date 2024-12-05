@@ -1,0 +1,102 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  logout
+    4  sudo apt update
+    5  sudo apt upgrade
+    6  logout
+    7  ip a
+    8  cp /vagrant/baja_git.sh .
+    9  cat baja_git.sh 
+   10  nano baja_git.sh 
+   11  ./baja_git.sh vagrant57
+   12  cd vagrant57/
+   13  ls
+   14  nano www.txt
+   15  cat www.txt 
+   16  sudo apt upade
+   17  sudo apt updade
+   18  sudo apt update
+   19  sudo apt install apache2 -y
+   20  apachectl -v
+   21  sudo ufw allow 80/tcp
+   22  firefox
+   23  chorme
+   24  chrome
+   25  nano www.txt 
+   26  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+   27  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   28  nano chrome.log
+   29  sudo apt update
+   30  sudo apt upgrade
+   31  sudo apt --fix-broken install
+   32  sudo dpkg -i google-chrome-stable_current_amd64.deb
+   33  google-chrome
+   34  ls
+   35  nano chrome.log 
+   36  sudo apt-get install -y xvfb
+   37  nano chrome.log 
+   38  google-chrome
+   39  logout
+   40  google-chrome
+   41  ls
+   42  pwd
+   43  ls
+   44  cd
+   45  ls
+   46  cd vagrant57/
+   47  ls
+   48  nano chrome.log 
+   49  ls
+   50  nano sube_git.sh
+   51  chmod u+x sube_git.sh 
+   52  ./sube_git.sh 
+   53  git config --global user.email "santosg572@gmail.com"
+   54  git config --global user.name "santosg572"
+   55  ./sube_git.sh 
+   56  ls
+   57  rm google-chrome-stable_current_amd64.deb 
+   58  ls
+   59  ./sube_git.sh 
+   60  ls
+   61  ip a
+   62  ls
+   63  nano www.txt 
+   64  sudo apt update -y && sudo apt upgrade -y
+   65  sudo apt install php8.3 -y
+   66  php -v
+   67  sudo apt install libapache2-mod-php php8.3-common php8.3-cli php8.3-mbstring php8.3-bcmath php8.3-fpm php8.3-mysql php8.3-zip php8.3-gd php8.3-curl php8.3-xml -y
+   68  php -m
+   69  cd /var/www/html/
+   70  nano info.php 
+   71  sudo nano info.php 
+   72  sudo systemctl restart apache2
+   73  nano ww
+   74  cd
+   75  nano ww
+   76  ls
+   77  cd vagrant57/
+   78  nano www.txt 
+   79  sudo apt update
+   80  sudo apt install mysql-server -y
+   81  mysql --version
+   82  sudo systemctl enable mysql
+   83  sudo mysql_secure_installation
+   84  sudo systemctl restart mysqld
+   85  sudo mysql -u root -p
+   86  logout
+   87  ls
+   88  mv vagrant57 vagrant572
+   89  cd vagrant572/
+   90  ls -la
+   91  rm -rf .git/
+   92  ls
+   93  pwd
+   94  cd
+   95  ls
+   96  ./baja_git.sh vagrant57
+   97  cd vagrant57
+   98  ls
+   99  cp -r ../vagrant572/* .
+  100  ls
+  101  ./sube_git.sh 
+  102  history > history.txt

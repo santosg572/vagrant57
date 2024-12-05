@@ -1,0 +1,76 @@
+
+
+vagrant@vagrant:~/vagrant57$ wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+--2024-12-05 20:44:34--  https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+Resolving dl.google.com (dl.google.com)... 192.178.52.206, 2607:f8b0:4012:81f::200e
+Connecting to dl.google.com (dl.google.com)|192.178.52.206|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 112377704 (107M) [application/x-debian-package]
+Saving to: ‘google-chrome-stable_current_amd64.deb’
+
+google-chrome-stable_current_amd64 100%[===============================================================>] 107.17M  44.1MB/s    in 2.4s    
+
+2024-12-05 20:44:37 (44.1 MB/s) - ‘google-chrome-stable_current_amd64.deb’ saved [112377704/112377704]
+
+vagrant@vagrant:~/vagrant57$ sudo dpkg -i google-chrome-stable_current_amd64.deb
+Selecting previously unselected package google-chrome-stable.
+(Reading database ... 58426 files and directories currently installed.)
+Preparing to unpack google-chrome-stable_current_amd64.deb ...
+Unpacking google-chrome-stable (131.0.6778.108-1) ...
+dpkg: dependency problems prevent configuration of google-chrome-stable:
+ google-chrome-stable depends on fonts-liberation; however:
+  Package fonts-liberation is not installed.
+ google-chrome-stable depends on libasound2 (>= 1.0.17); however:
+  Package libasound2 is not installed.
+ google-chrome-stable depends on libatk-bridge2.0-0 (>= 2.5.3); however:
+  Package libatk-bridge2.0-0 is not installed.
+ google-chrome-stable depends on libatk1.0-0 (>= 2.11.90); however:
+  Package libatk1.0-0 is not installed.
+ google-chrome-stable depends on libatspi2.0-0 (>= 2.9.90); however:
+  Package libatspi2.0-0 is not installed.
+ google-chrome-stable depends on libcairo2 (>= 1.6.0); however:
+  Package libcairo2 is not installed.
+ google-chrome-stable depends on libcups2 (>= 1.6.0); however:
+  Package libcups2 is not installed.
+ google-chrome-stable depends on libgbm1 (>= 17.1.0~rc2); however:
+  Package libgbm1 is not installed.
+ google-chrome-stable depends on libgtk-3-0 (>= 3.9.10) | libgtk-4-1; however:
+  Package libgtk-3-0 is not installed.
+  Package libgtk-4-1 is not installed.
+ google-chrome-stable depends on libpango-1.0-0 (>= 1.14.0); however:
+  Package libpango-1.0-0 is not installed.
+ google-chrome-stable depends on libvulkan1; however:
+  Package libvulkan1 is not installed.
+ google-chrome-stable depends on libx11-6 (>= 2:1.4.99.1); however:
+  Package libx11-6 is not installed.
+ google-chrome-stable depends on libxcb1 (>= 1.9.2); however:
+  Package libxcb1 is not installed.
+ google-chrome-stable depends on libxcomposite1 (>= 1:0.4.4-1); however:
+  Package libxcomposite1 is not installed.
+ google-chrome-stable depends on libxdamage1 (>= 1:1.1); however:
+  Package libxdamage1 is not installed.
+ google-chrome-stable depends on libxext6; however:
+  Package libxext6 is not installed.
+ google-chrome-stable depends on libxfixes3; however:
+  Package libxfixes3 is not installed.
+ google-chrome-stable depends on libxrandr2; however:
+  Package libxrandr2 is not installed.
+ google-chrome-stable depends on xdg-utils (>= 1.0.2); however:
+  Package xdg-utils is not installed.
+
+dpkg: error processing package google-chrome-stable (--install):
+ dependency problems - leaving unconfigured
+Processing triggers for man-db (2.12.0-4build2) ...
+Errors were encountered while processing:
+ google-chrome-stable
+vagrant@vagrant:~/vagrant57$ nano chrome.log
+
+============================
+
+vagrant@vagrant:~/vagrant57$ google-chrome
+[6238:6238:1205/204714.900782:ERROR:ozone_platform_x11.cc(244)] Missing X server or $DISPLAY
+[6238:6238:1205/204714.900862:ERROR:env.cc(257)] The platform failed to initialize.  Exiting.
+
+sudo apt-get install -y xvfb
+
+

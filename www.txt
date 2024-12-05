@@ -1,0 +1,7 @@
+
+https://linuxhostsupport.com/blog/how-to-install-php-8-3-on-ubuntu-24-04/
+https://askubuntu.com/questions/1514599/how-do-i-install-google-chrome-on-ubuntu-24-04
+https://docs.vultr.com/how-to-install-apache-web-server-on-ubuntu-24-04
+https://docs.vultr.com/how-to-install-mysql-on-ubuntu-24-04
+
+

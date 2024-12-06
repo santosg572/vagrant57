@@ -1,0 +1,19 @@
+vagrant@vagrant:~$ r
+ranlib                   regedit                  resize2fs                rmt                      rtstat
+rbash                    regedit-stable           resizecons               rmt-tar                  runcon
+rctest                   regsvr32                 resizepart               rnano                    runlevel
+rcvboxadd                regsvr32-stable          resolvconf               routel                   run-one
+rcvboxadd-service        remmina                  resolvectl               rrsync                   run-one-constantly
+rdma                     remmina-file-wrapper     return                   rstart                   run-one-until-failure
+read                     remmina-gnome            rev                      rstartd                  run-one-until-success
+readarray                remove-default-ispell    rfcomm                   rsync                    run-parts
+readelf                  remove-default-wordlist  rfkill                   rsync-ssl                run-this-one
+readlink                 remove-shell             rgrep                    rsyslogd                 runuser
+readonly                 rename.ul                rhythmbox                rtacct                   run-with-aspell
+readprofile              rendercheck              rhythmbox-client         rtcwake                  rview
+realpath                 renice                   rm                       rtkitctl                 rvim
+reboot                   rescan-scsi-bus.sh       rmdir                    rtla                     rygel
+red                      reset                    rmmod                    rtmon                    
+vagrant@vagrant:~$ man rrr.txt
+No manual entry for rrr.txt
+

@@ -1,0 +1,16 @@
+vagrant@vagrant:~$ 
+vagrant@vagrant:~$ h
+h2ph                   hd                     history                hp-config_usb_printer  hp-plugin-ubuntu
+h2xs                   hdparm                 host                   hp-doctor              hp-probe
+halt                   head                   hostid                 hp-firmware            hp-query
+hardlink               heif-thumbnailer       hostname               hp-info                hp-scan
+hash                   help                   hostnamectl            hp-levels              hp-setup
+hbpldecode             helpztags              hp-align               hp-logcapture          hp-testpage
+hciattach              hex2hcd                hp-check               hp-makeuri             hp-timedate
+hciconfig              hexdump                hp-clean               hp-pkservice           htop
+hcitool                hipercdecode           hp-colorcal            hp-plugin              hwe-support-status
+vagrant@vagrant:~$ h
+-bash: h: command not found
+vagrant@vagrant:~$ nano hhh.txt
+
+

@@ -1,0 +1,30 @@
+vagrant@vagrant:~$ nano ttt.txt
+vagrant@vagrant:~$ u
+ua                          uncompress                  update-cracklib             update-rc.d
+ubuntu-advantage            unexpand                    update-default-aspell       update-shells
+ubuntu-bug                  unicode_start               update-default-ispell       update-xmlcatalog
+ubuntu-distro-info          unicode_stop                update-default-wordlist     upgrade-from-grub-legacy
+ubuntu-drivers              uniq                        update-desktop-database     upower
+ubuntu-report               unity-scope-loader          update-dictcommon-aspell    uptime
+ubuntu-security-status      unix_chkpwd                 update-dictcommon-hunspell  usb-creator-gtk
+ucf                         unix_update                 update-fonts-alias          usb-devices
+ucfq                        unlink                      update-fonts-dir            usbhid-dump
+ucfr                        unlzma                      update-fonts-scale          usbip
+uclampset                   unminimize                  update-grub                 usbipd
+ucs2any                     unmkinitramfs               update-grub2                usb_modeswitch
+u-d-c-print-pci-ids         unopkg                      update-grub-gfxpayload      usb_modeswitch_dispatcher
+udevadm                     unset                       update-gsfontmap            usbmuxd
+udisksctl                   unshare                     update-icon-caches          usb_printerid
+ufw                         unsquashfs                  update-inetd                usbreset
+ul                          until                       update-info-dir             useradd
+ulimit                      unxz                        update-initramfs            userdel
+umask                       unzip                       update-locale               usermod
+umax_pp                     unzipsfx                    update-manager              users
+umount                      unzstd                      update-mime-database        utmpdump
+umount.udisks2              update-alternatives         update-notifier             uuidd
+unalias                     update-ca-certificates      update-passwd               uuidgen
+uname                       update-catalog              update-pciids               uuidparse
+vagrant@vagrant:~$ u
+-bash: u: command not found
+vagrant@vagrant:~$ nano uuu.txt
+

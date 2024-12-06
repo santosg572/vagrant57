@@ -1,0 +1,33 @@
+vagrant@vagrant:~$ l
+Display all 141 possibilities? (y or n)
+l                      less                   locale-gen             ls                     lvmpolld
+l2ping                 lessecho               lodraw                 lsattr                 lvmsadc
+l2test                 lessfile               loffice                lsblk                  lvmsar
+la                     lesskey                lofromtemplate         lsb_release            lvreduce
+landscape-sysinfo      lesspipe               logger                 lscpu                  lvremove
+laptop-detect          let                    login                  lshw                   lvrename
+last                   lexgrog                loginctl               lsinitramfs            lvresize
+lastb                  libnetcfg              logname                lsipc                  lvs
+lastlog                libreoffice            logout                 lslocks                lvscan
+lavadecode             link                   logrotate              lslogins               lwp-download
+lcf                    linkicc                logsave                lsmem                  lwp-dump
+ld                     linux32                loimpress              lsmod                  lwp-mirror
+ldapadd                linux64                lomath                 lsns                   lwp-request
+ldapcompare            linux-boot-prober      look                   lsof                   lxc
+ldapdelete             linux-check-removal    losetup                lspci                  lxd
+ldapexop               linux-update-symlinks  loweb                  lspcmcia               lzcat
+ldapmodify             linux-version          lowntfs-3g             lspgpot                lzcmp
+ldapmodrdn             listres                lowriter               lspower                lzdiff
+ldappasswd             ll                     lp                     lsusb                  lzegrep
+ldapsearch             ln                     lpadmin                luksformat             lzfgrep
+ldapurl                lnstat                 lpc                    lvchange               lzgrep
+ldapwhoami             loadkeys               lpinfo                 lvconvert              lzless
+ldattach               loadunimap             lpmove                 lvcreate               lzma
+ld.bfd                 local                  lpoptions              lvdisplay              lzmainfo
+ldconfig               localc                 lpq                    lvextend               lzmore
+ldconfig.real          locale                 lpr                    lvm                    
+ldd                    locale-check           lprm                   lvmconfig              
+ld.gold                localectl              lp_solve               lvmdiskscan            
+ld.so                  localedef              lpstat                 lvmdump                
+vagrant@vagrant:~$ l
+

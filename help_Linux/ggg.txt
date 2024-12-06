@@ -1,0 +1,54 @@
+agrant@vagrant:~$ man fsck
+vagrant@vagrant:~$ g
+Display all 191 possibilities? (y or n)
+gamemoded                   gio                         gp-display-src              grub-mkrelpath
+gamemodelist                gio-querymodules            gp-display-text             grub-mkrescue
+gamemoderun                 gipddecode                  gpg                         grub-mkstandalone
+gamemode-simulate-game      git                         gpg-agent                   grub-mount
+gamma4scanimage             git-receive-pack            gpgconf                     grub-ntldr-img
+gapplication                git-shell                   gpg-connect-agent           grub-probe
+gatttool                    git-upload-archive          gpgparsemail                grub-reboot
+gawk                        git-upload-pack             gpgsm                       grub-render-label
+gawkbug                     gjs                         gpgsplit                    grub-script-check
+gawklibpath_append          gjs-console                 gpgtar                      grub-set-default
+gawklibpath_default         gkbd-keyboard-display       gpgv                        grub-syslinux2cfg
+gawklibpath_prepend         glib-compile-schemas        gpg-wks-client              gs
+gawkpath_append             gnome-calculator            gpic                        gsbj
+gawkpath_default            gnome-calendar              gprof                       gsdj
+gawkpath_prepend            gnome-characters            gprofng                     gsdj500
+gcalccmd                    gnome-clocks                gpu-manager                 gsettings
+gcore                       gnome-control-center        grdctl                      gslj
+gcr-viewer                  gnome-disk-image-mounter    grep                        gslp
+gcr-viewer-gtk4             gnome-disks                 gresource                   gsnd
+gdb                         gnome-extensions            groff                       gst-device-monitor-1.0
+gdb-add-index               gnome-font-viewer           grog                        gst-discoverer-1.0
+gdbtui                      gnome-help                  grops                       gst-inspect-1.0
+gdbus                       gnome-keyring               grotty                      gst-launch-1.0
+gdisk                       gnome-keyring-3             groupadd                    gst-play-1.0
+gdk-pixbuf-csource          gnome-keyring-daemon        groupdel                    gstreamer-codec-install
+gdk-pixbuf-pixdata          gnome-language-selector     groupmems                   gst-stats-1.0
+gdk-pixbuf-thumbnailer      gnome-logs                  groupmod                    gst-tester-1.0
+gdm3                        gnome-menus-blacklist       groups                      gst-typefind-1.0
+gdm-config                  gnome-power-statistics      growpart                    gtbl
+gdmflexiserver              gnome-session               grpck                       gted
+gdm-screenshot              gnome-session-inhibit       grpconv                     gtf
+geckodriver                 gnome-session-properties    grpunconv                   gtk4-broadwayd
+genl                        gnome-session-quit          grub-bios-setup             gtk4-builder-tool
+geqn                        gnome-shell                 grub-editenv                gtk4-encode-symbolic-svg
+getcap                      gnome-shell-extension-tool  grub-file                   gtk4-launch
+getconf                     gnome-shell-test-tool       grub-fstest                 gtk4-path-tool
+getent                      gnome-system-monitor        grub-glue-efi               gtk4-query-settings
+getfacl                     gnome-terminal              grub-install                gtk4-rendernode-tool
+getkeycodes                 gnome-terminal.real         grub-kbdcomp                gtk4-update-icon-cache
+getopt                      gnome-terminal.wrapper      grub-macbless               gtk-builder-tool
+getopts                     gnome-text-editor           grub-menulst2cfg            gtk-encode-symbolic-svg
+getpcaps                    gnome-thumbnail-font        grub-mkconfig               gtk-launch
+gettext                     gnome-www-browser           grub-mkdevicemap            gtk-query-settings
+gettext.sh                  gold                        grub-mkfont                 gtk-update-icon-cache
+getty                       gp-archive                  grub-mkimage                gunzip
+getweb                      gpasswd                     grub-mklayout               gzexe
+ghostscript                 gp-collect-app              grub-mknetdir               gzip
+ginstall-info               gp-display-html             grub-mkpasswd-pbkdf2        
+vagrant@vagrant:~$ g
+
+

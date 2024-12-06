@@ -1,0 +1,24 @@
+agrant@vagrant:~$ nano sss.txt
+vagrant@vagrant:~$ t
+tabs                     test                     timeout                  tracker3-daemon          trap
+tac                      then                     times                    tracker3-endpoint        trial3
+tail                     thermald                 tipc                     tracker3-export          troff
+tapestat                 thin_check               tkconch3                 tracker3-extract         true
+tar                      thin_delta               tload                    tracker3-help            truncate
+tarcat                   thin_dump                tmux                     tracker3-import          trust
+taskset                  thin_ls                  tnftp                    tracker3-index           tset
+tbl                      thin_metadata_size       toe                      tracker3-info            tsort
+tc                       thin_repair              top                      tracker3-reset           tty
+tclsh                    thin_restore             totem                    tracker3-search          tune2fs
+tclsh8.6                 thin_rmap                totem-video-thumbnailer  tracker3-sparql          turbostat
+tcpdump                  thin_trim                touch                    tracker3-sql             twist3
+tecla                    thunderbird              tput                     tracker3-status          twistd3
+tee                      tic                      tr                       tracker3-tag             type
+telinit                  tificc                   trace-cmd                transicc                 typeset
+telnet                   time                     tracepath                transmission-gtk         tzselect
+tempfile                 timedatectl              tracker3                 transset                 
+vagrant@vagrant:~$ t
+-bash: t: command not found
+vagrant@vagrant:~$ nano ttt.txt
+
+

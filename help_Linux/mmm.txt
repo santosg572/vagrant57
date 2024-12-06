@@ -1,0 +1,34 @@
+vagrant@vagrant:~$ m
+m2300w                            mimeopen                          mktemp
+m2300w-wrapper                    mimetype                          mmcli
+m2400w                            min12xxw                          modinfo
+mailmail3                         mkdir                             modprobe
+make-bcache                       mkdosfs                           monitor-sensor
+make-ssl-cert                     mke2fs                            more
+mako-render                       mkfifo                            mount
+man                               mkfontdir                         mount.fuse
+mandb                             mkfontscale                       mount.fuse3
+manifest                          mkfs                              mount.lowntfs-3g
+manpath                           mkfs.bfs                          mount.ntfs
+man-recode                        mkfs.btrfs                        mount.ntfs-3g
+mapfile                           mkfs.cramfs                       mountpoint
+mapscrn                           mkfs.ext2                         mount.vboxsf
+markdown-it                       mkfs.ext3                         mousetweaks
+mawk                              mkfs.ext4                         mpathpersist
+mbimcli                           mkfs.fat                          mpris-proxy
+mbim-network                      mkfs.minix                        mpstat
+mcookie                           mkfs.msdos                        mscompress
+md5sum                            mkfs.ntfs                         msexpand
+md5sum.textutils                  mkfs.vfat                         msiexec
+mdadm                             mkfs.xfs                          msiexec-stable
+mdig                              mkhomedir_helper                  mt
+mdmon                             mkinitramfs                       mt-gnu
+memhog                            mklost+found                      mtr
+mesa-overlay-control.py           mk_modmap                         mtr-packet
+mesg                              mknod                             multipath
+migratepages                      mkntfs                            multipathc
+migrate-pubring-from-classic-gpg  mksquashfs                        multipathd
+migspeed                          mkswap                            mv
+vagrant@vagrant:~$ m
+-bash: m: command not found
+vagrant@vagrant:~$ man mmm.txt

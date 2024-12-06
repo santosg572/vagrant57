@@ -1,0 +1,12 @@
+vagrant@vagrant:~$ w
+w                     whereis               wifi-status           winedbg-stable        wireplumber
+wait                  which                 wine                  winefile              word-list-compress
+wall                  which.debianutils     wineboot              winefile-stable       wpa_action
+watch                 while                 wineboot-stable       winepath              wpa_cli
+watchgnupg            whiptail              winecfg               winepath-stable       wpa_passphrase
+wc                    who                   winecfg-stable        wineserver            wpa_supplicant
+wdctl                 whoami                wineconsole           wineserver-stable     wpctl
+wget                  whoopsie              wineconsole-stable    wine-stable           wpexec
+whatis                whoopsie-preferences  winedbg               wipefs                write
+vagrant@vagrant:~$ w
+

@@ -1,0 +1,25 @@
+agrant@vagrant:~$ 
+vagrant@vagrant:~$ f
+factor               fgconsole            foo2ddst             foo2zjs              fsck.fat
+faillock             fgrep                foo2ddst-wrapper     foo2zjs-icc2ps       fsck.minix
+faillog              fi                   foo2hbpl2            foo2zjs-pstops       fsck.msdos
+fallocate            file                 foo2hbpl2-wrapper    foo2zjs-wrapper      fsck.vfat
+false                file2brl             foo2hiperc           foomatic-rip         fsck.xfs
+fatlabel             filefrag             foo2hiperc-wrapper   for                  fsfreeze
+fc                   file-roller          foo2hp               fprintd-delete       fstab-decode
+fc-cache             finalrd              foo2hp2600-wrapper   fprintd-enroll       fstrim
+fc-cat               find                 foo2lava             fprintd-list         ftp
+fc-conflist          findfs               foo2lava-wrapper     fprintd-verify       function
+fc-list              findmnt              foo2oak              free                 funzip
+fc-match             firefox              foo2oak-wrapper      fsadm                fuser
+fc-pattern           firefox.geckodriver  foo2qpdl             fsck                 fusermount
+fc-query             fixparts             foo2qpdl-wrapper     fsck.btrfs           fusermount3
+fc-scan              flock                foo2slx              fsck.cramfs          fwupdmgr
+fc-validate          fmt                  foo2slx-wrapper      fsck.ext2            fwupdtool
+fdisk                fold                 foo2xqx              fsck.ext3            
+fg                   fonttosfnt           foo2xqx-wrapper      fsck.ext4            
+vagrant@vagrant:~$ f
+-bash: f: command not found
+vagrant@vagrant:~$ nano fff,txt
+
+

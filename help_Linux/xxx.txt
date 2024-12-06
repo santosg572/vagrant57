@@ -1,0 +1,53 @@
+vagrant@vagrant:~$ x
+Display all 143 possibilities? (y or n)
+x11perf                           xdg-open                          xload
+x11perfcomp                       xdg-screensaver                   xlogo
+x86_64                            xdg-settings                      xlsatoms
+x86_64-linux-gnu-addr2line        xdg-user-dir                      xlsclients
+x86_64-linux-gnu-ar               xdg-user-dirs-gtk-update          xlsfonts
+x86_64-linux-gnu-as               xdg-user-dirs-update              xmag
+x86_64-linux-gnu-c++filt          xditview                          xman
+x86_64-linux-gnu-cpp              xdpyinfo                          xmessage
+x86_64-linux-gnu-cpp-13           xdriinfo                          xmodmap
+x86_64-linux-gnu-dwp              xedit                             xmore
+x86_64-linux-gnu-elfedit          xev                               xorrecord
+x86_64-linux-gnu-gold             xeyes                             xorriso
+x86_64-linux-gnu-gp-archive       xfd                               xorrisofs
+x86_64-linux-gnu-gp-collect-app   xfontsel                          xprop
+x86_64-linux-gnu-gp-display-html  xfs_admin                         xqxdecode
+x86_64-linux-gnu-gp-display-src   xfs_bmap                          xrandr
+x86_64-linux-gnu-gp-display-text  xfs_copy                          xrdb
+x86_64-linux-gnu-gprof            xfs_db                            xrefresh
+x86_64-linux-gnu-gprofng          xfs_estimate                      x-session-manager
+x86_64-linux-gnu-ld               xfs_freeze                        xset
+x86_64-linux-gnu-ld.bfd           xfs_fsr                           xsetmode
+x86_64-linux-gnu-ld.gold          xfs_growfs                        xsetpointer
+x86_64-linux-gnu-nm               xfs_info                          xsetroot
+x86_64-linux-gnu-objcopy          xfs_io                            xsetwacom
+x86_64-linux-gnu-objdump          xfs_logprint                      xsm
+x86_64-linux-gnu-ranlib           xfs_mdrestore                     xstdcmap
+x86_64-linux-gnu-readelf          xfs_metadump                      xsubpp
+x86_64-linux-gnu-size             xfs_mkfile                        xtables-legacy-multi
+x86_64-linux-gnu-strings          xfs_ncheck                        xtables-monitor
+x86_64-linux-gnu-strip            xfs_quota                         xtables-nft-multi
+x86_energy_perf_policy            xfs_repair                        x-terminal-emulator
+xargs                             xfs_rtcp                          xvidtune
+xauth                             xfs_scrub                         xvinfo
+xbiff                             xfs_scrub_all                     xwd
+xbrlapi                           xfs_spaceman                      xwininfo
+xcalc                             xgamma                            xwud
+xclipboard                        xgc                               x-www-browser
+xclock                            xhost                             xxd
+xcmsdb                            xinit                             xz
+xconsole                          xinput                            xzcat
+xcursorgen                        xkbbell                           xzcmp
+xcutsel                           xkbcomp                           xzdiff
+xdg-dbus-proxy                    xkbevd                            xzegrep
+xdg-desktop-icon                  xkbprint                          xzfgrep
+xdg-desktop-menu                  xkbvleds                          xzgrep
+xdg-email                         xkbwatch                          xzless
+xdg-icon-resource                 xkeystone                         xzmore
+xdg-mime                          xkill                             
+vagrant@vagrant:~$ x
+
+

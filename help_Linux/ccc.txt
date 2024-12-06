@@ -1,0 +1,37 @@
+agrant@vagrant:~$ c
+Display all 117 possibilities? (y or n)
+cache_check                chcon                      col3                       cracklib-format
+cache_dump                 chcpu                      col4                       cracklib-packer
+cache_metadata_size        check-language-support     col5                       cracklib-unpacker
+cache_repair               chfn                       col6                       create-cracklib-dict
+cache_restore              chgpasswd                  col7                       c_rehash
+cache_writeback            chgrp                      col8                       cron
+calibrate_ppa              chmem                      col9                       crontab
+caller                     chmod                      colcrt                     cryptdisks_start
+canberra-gtk-play          choom                      colormgr                   cryptdisks_stop
+cancel                     chown                      colrm                      cryptsetup
+capsh                      chpasswd                   column                     csplit
+captoinfo                  chroot                     comm                       ctail
+case                       chrt                       command                    ctrlaltdel
+cat                        chsh                       compgen                    ctstat
+catman                     chvt                       complete                   cupsaccept
+cd                         cifsiostat                 compopt                    cups-browsed
+cd-create-profile          ciptool                    conch3                     cupsctl
+cd-fix-profile             ckbcomp                    continue                   cupsd
+cd-iccdump                 ckeygen3                   coproc                     cupsdisable
+cd-it8                     cksum                      corelist                   cupsenable
+cfdisk                     clear                      cp                         cupsfilter
+c++filt                    clear_console              cpan                       cupsreject
+cftp3                      cloud-id                   cpan5.38-x86_64-linux-gnu  cupstestppd
+cgdisk                     cloud-init                 cpgr                       curl
+chacl                      cloud-init-per             cpio                       cut
+chage                      cmp                        cpp                        cvt
+chardet                    codepage                   cpp-13                     cvtsudoers
+chardetect                 col                        cppw                       
+chat                       col1                       cpupower                   
+chattr                     col2                       cracklib-check             
+vagrant@vagrant:~$ c
+-bash: c: command not found
+vagrant@vagrant:~$ nano ccc.txt
+
+

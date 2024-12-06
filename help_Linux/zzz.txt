@@ -1,0 +1,6 @@
+vagrant@vagrant:~$ z
+zcat        zdump       zerofree    zgrep       zipcloak    zipinfo     zjsdecode   znew        zstdcat     zstdmt
+zcmp        zegrep      zfgrep      zic         zipdetails  zipnote     zless       zramctl     zstdgrep    
+zdiff       zenity      zforce      zip         zipgrep     zipsplit    zmore       zstd        zstdless    
+vagrant@vagrant:~$ z
+

@@ -1,0 +1,23 @@
+vagrant@vagrant:~$ n
+namei                      nft                        nproc                      ntfslabel
+nano                       ngettext                   nroff                      ntfsls
+nautilus                   nice                       nsenter                    ntfsmove
+nautilus-autorun-software  nisdomainname              nslookup                   ntfsrecover
+nautilus-sendto            nl                         nstat                      ntfsresize
+nawk                       nm                         nsupdate                   ntfssecaudit
+nc                         nm-applet                  ntfs-3g                    ntfstruncate
+nc.openbsd                 nmcli                      ntfs-3g.probe              ntfsundelete
+needrestart                nm-connection-editor       ntfscat                    ntfsusermap
+neqn                       nm-online                  ntfsclone                  ntfswipe
+netcat                     nmtui                      ntfscluster                numactl
+netplan                    nmtui-connect              ntfscmp                    numastat
+networkctl                 nmtui-edit                 ntfscp                     numfmt
+networkd-dispatcher        nmtui-hostname             ntfsdecrypt                nvidia-detector
+newgrp                     nohup                      ntfsfallocate              
+newusers                   nologin                    ntfsfix                    
+nfnl_osf                   notify-send                ntfsinfo                   
+vagrant@vagrant:~$ n
+-bash: n: command not found
+vagrant@vagrant:~$ nano nnn.txt
+
+

@@ -1,0 +1,20 @@
+agrant@vagrant:~$ dir ddd.txt 
+ddd.txt
+vagrant@vagrant:~$ e
+e2freefrag            ebtables-nft          eject                 eps2eps               evince-previewer
+e2fsck                ebtables-nft-restore  elfedit               eqn                   evince-thumbnailer
+e2image               ebtables-nft-save     elif                  era_check             ex
+e2label               ebtables-restore      else                  era_dump              exec
+e2mmpstatus           ebtables-save         enable                era_invalidate        exit
+e2scrub               ebtables-translate    enc2xs                era_restore           expand
+e2scrub_all           ec2metadata           encguess              esac                  expiry
+e2undo                echo                  enchant-2             esc-m                 export
+e4crypt               ed                    enchant-lsmod-2       ethtool               expr
+e4defrag              editor                env                   eutp                  
+eatmydata             editres               envsubst              eval                  
+ebtables              egrep                 eog                   evince                
+vagrant@vagrant:~$ e
+-bash: e: command not found
+vagrant@vagrant:~$ nano eee.txt
+
+

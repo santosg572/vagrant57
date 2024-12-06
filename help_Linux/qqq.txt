@@ -1,0 +1,5 @@
+vagrant@vagrant:~$ q
+qmicli               qmi-firmware-update  qmi-network          qpdldecode           quirks-handler
+vagrant@vagrant:~$ nano qqq.txt
+
+

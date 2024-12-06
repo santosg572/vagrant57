@@ -1,0 +1,8 @@
+vagrant@vagrant:~$ k
+kbdinfo            kbxutil            kerneloops         killall            kmodsign           
+kbd_mode           keep-one-running   kerneloops-submit  killall5           kpartx             
+kbdrate            kernel-install     kill               kmod               
+vagrant@vagrant:~$ k
+-bash: k: command not found
+vagrant@vagrant:~$ nano kkk.txt
+

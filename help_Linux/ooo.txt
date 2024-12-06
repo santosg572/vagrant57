@@ -1,0 +1,10 @@
+vagrant@vagrant:~$ nano nnn.txt
+vagrant@vagrant:~$ o
+oakdecode           oclock              oomctl              openvt              osirrox             
+obexctl             od                  open                opldecode           os-prober           
+objcopy             oem-getlogs         openssl             orca                overlayroot-chroot  
+objdump             on_ac_power         openvpn             orca-dm-wrapper     ownership           
+vagrant@vagrant:~$ o
+-bash: o: command not found
+vagrant@vagrant:~$ nano ooo.txt
+

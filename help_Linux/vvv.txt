@@ -1,0 +1,26 @@
+vagrant@vagrant:~$ 
+vagrant@vagrant:~$ v
+validlocale                     vgimportclone                   vipw
+varlinkctl                      vgmerge                         visudo
+vbox-greeter                    vgmknodes                       vmhgfs-fuse
+vbox-uninstall-guest-additions  vgreduce                        vmstat
+vcs-run                         vgremove                        vm-support
+vcstime                         vgrename                        vmtoolsd
+vdir                            vgs                             vmware-alias-import
+vdpa                            vgscan                          vmware-checkvm
+veritysetup                     vgsplit                         vmwarectrl
+vgcfgbackup                     vi                              vmware-hgfsclient
+vgcfgrestore                    view                            vmware-namespace-cmd
+vgchange                        viewres                         vmware-rpctool
+vgck                            vigpg                           vmware-toolbox-cmd
+vgconvert                       vigr                            vmware-vgauth-cmd
+vgcreate                        vim                             vmware-vmblock-fuse
+vgdisplay                       vim.basic                       vmware-xferlogs
+vgexport                        vimdiff                         vpddecode
+vgextend                        vim.tiny                        vstp
+vgimport                        vimtutor                        
+vagrant@vagrant:~$ v
+-bash: v: command not found
+vagrant@vagrant:~$ man vvv.txt
+
+

@@ -1,0 +1,55 @@
+vagrant@vagrant:~$ p
+Display all 198 possibilities? (y or n)
+p11-kit                    pf2afm                     ppdmerge                   pvcreate
+pager                      pfbtopfa                   ppdpo                      pvdisplay
+pam-auth-update            pgrep                      pphs                       pvmove
+pam_extrausers_chkpwd      pic                        pppd                       pvremove
+pam_extrausers_update      pico                       pppdump                    pvresize
+pam_getenv                 piconv                     pppoe-discovery            pvs
+pam_namespace_helper       pidof                      pppstats                   pvscan
+pam_timestamp_check        pidstat                    pptp                       pw-cat
+paperconf                  pidwait                    pptpsetup                  pwck
+paperconfig                pinentry                   pr                         pw-cli
+parted                     pinentry-curses            precat                     pw-config
+partprobe                  pinentry-gnome3            preconv                    pwconv
+partx                      pinentry-x11               preunzip                   pwd
+passwd                     ping                       prezip                     pw-dot
+paste                      ping4                      prezip-bin                 pw-dsdplay
+pastebinit                 ping6                      printafm                   pw-dump
+patch                      pinky                      printenv                   pwdx
+pathchk                    pipewire                   printer-profile            pw-encplay
+pbget                      pipewire-aes67             printf                     pwhistory_helper
+pbput                      pipewire-avb               prlimit                    pw-link
+pbputs                     pipewire-pulse             pro                        pw-loopback
+pccardctl                  pivot_root                 prove                      pw-metadata
+pdata_tools                pkaction                   prtstat                    pw-mididump
+pdb3                       pkcheck                    ps                         pw-midiplay
+pdb3.12                    pkcon                      ps2ascii                   pw-midirecord
+pdf2dsc                    pkexec                     ps2epsi                    pw-mon
+pdf2ps                     pkill                      ps2pdf                     pw-play
+pdfattach                  pkmon                      ps2pdf12                   pw-profiler
+pdfdetach                  pkttyagent                 ps2pdf13                   pw-record
+pdffonts                   pl2pm                      ps2pdf14                   pw-reserve
+pdfimages                  pldd                       ps2pdfwr                   pw-top
+pdfinfo                    plog                       ps2ps                      pwunconv
+pdfseparate                plymouth                   ps2ps2                     py3clean
+pdfsig                     plymouthd                  ps2txt                     py3compile
+pdftocairo                 pmap                       psfaddtable                py3versions
+pdftohtml                  pnm2ppa                    psfgettable                pybabel
+pdftoppm                   pod2html                   psfstriptable              pybabel-python3
+pdftops                    pod2man                    psfxtable                  pydoc3
+pdftotext                  pod2text                   psicc                      pydoc3.12
+pdfunite                   pod2usage                  pslog                      pygettext3
+peekfd                     podchecker                 pstree                     pygettext3.12
+perf                       poff                       pstree.x11                 pygmentize
+perl                       pollinate                  ptar                       pyhtmlizer3
+perl5.38.2                 pon                        ptardiff                   pyserial-miniterm
+perl5.38-x86_64-linux-gnu  popd                       ptargrep                   pyserial-ports
+perlbug                    poweroff                   ptx                        python3
+perldoc                    powerprofilesctl           purge-old-kernels          python3.12
+perli11ndoc                ppdc                       pushd                      pzstd
+perlivp                    ppdhtml                    pvchange                   
+perlthanks                 ppdi                       pvck                       
+vagrant@vagrant:~$ nano ppp.txt
+
+

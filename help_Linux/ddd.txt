@@ -1,0 +1,33 @@
+agrant@vagrant:~$ nano ccc.txt
+vagrant@vagrant:~$ d
+dash                                delgroup                            dnsdomainname
+date                                delpart                             dnsmasq
+dbus-cleanup-sockets                deluser                             do
+dbus-daemon                         delv                                domainname
+dbus-monitor                        depmod                              done
+dbus-run-session                    desktop-file-edit                   do-release-upgrade
+dbus-send                           desktop-file-install                dosfsck
+dbus-update-activation-environment  desktop-file-validate               dosfslabel
+dbus-uuidgen                        devlink                             dpkg
+dbxtool                             df                                  dpkg-deb
+dc                                  dhcpcd                              dpkg-divert
+dcb                                 dh_installxmlcatalogs               dpkg-maintscript-helper
+dconf                               dh_perl_openssl                     dpkg-preconfigure
+dd                                  diff                                dpkg-query
+ddstdecode                          diff3                               dpkg-realpath
+deallocvt                           dig                                 dpkg-reconfigure
+debconf                             dir                                 dpkg-split
+debconf-apt-progress                dircolors                           dpkg-statoverride
+debconf-communicate                 dirmngr                             dpkg-trigger
+debconf-copydb                      dirmngr-client                      driverless
+debconf-escape                      dirname                             driverless-fax
+debconf-set-selections              dirs                                du
+debconf-show                        disown                              dumpe2fs
+debian-distro-info                  distro-info                         dumpkeys
+deb-systemd-helper                  dmesg                               duplicity
+deb-systemd-invoke                  dmeventd                            dvipdf
+debugfs                             dmidecode                           dwp
+declare                             dmsetup                             
+deja-dup                            dmstats                             
+vagrant@vagrant:~$ man ddd.txt
+

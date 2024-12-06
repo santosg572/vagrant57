@@ -1,0 +1,30 @@
+agrant@vagrant:~$ nano hhh.txt
+vagrant@vagrant:~$ i
+i386                         insmod                       ip6tables-translate          iptables-translate
+ibus                         install                      ipcmk                        iptables-xml
+ibus-daemon                  install-info                 ipcrm                        ischroot
+ibus-setup                   installkernel                ipcs                         iscsiadm
+ibus-table-createdb          install-sgmlcatalog          ipod-read-sysinfo-extended   iscsid
+iceauth                      instmodsh                    ipod-time-sync               iscsi_discovery
+ico                          integritysetup               ippevepcl                    iscsi-iname
+iconv                        intel-virtual-output         ippeveprinter                iscsistart
+iconvconfig                  invoke-rc.d                  ippeveps                     isdv4-serial-debugger
+id                           ionice                       ippfind                      isdv4-serial-inputattach
+iecset                       iostat                       ipptool                      isosize
+if                           ip                           ipp-usb                      ispell-autobuildhash
+ijs_pxljr                    ip6tables                    iptables                     ispell-wrapper
+im-config                    ip6tables-apply              iptables-apply               iucode-tool
+im-launch                    ip6tables-legacy             iptables-legacy              iucode_tool
+in                           ip6tables-legacy-restore     iptables-legacy-restore      iwconfig
+inetutils-telnet             ip6tables-legacy-save        iptables-legacy-save         iwevent
+info                         ip6tables-nft                iptables-nft                 iwgetid
+infobrowser                  ip6tables-nft-restore        iptables-nft-restore         iwlist
+infocmp                      ip6tables-nft-save           iptables-nft-save            iwpriv
+infotocap                    ip6tables-restore            iptables-restore             iwspy
+init                         ip6tables-restore-translate  iptables-restore-translate   
+inputattach                  ip6tables-save               iptables-save                
+vagrant@vagrant:~$ i
+-bash: i: command not found
+vagrant@vagrant:~$ nano iii.txt
+
+

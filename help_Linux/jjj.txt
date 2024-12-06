@@ -1,0 +1,7 @@
+vagrant@vagrant:~$ j
+jobs                 jpgicc               jsonpatch            json_pp              
+join                 jq                   json-patch-jsondiff  jsonschema           
+journalctl           jsondiff             jsonpointer          
+vagrant@vagrant:~$ j
+-bash: j: command not found
+vagrant@vagrant:~$ man jjj.txt

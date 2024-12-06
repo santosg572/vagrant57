@@ -1,0 +1,18 @@
+aa-enabled             agetty                 apgbfm                 apt-config             arptables-nft-restore
+aa-exec                airscan-discover       aplay                  aptd                   arptables-nft-save
+aa-features-abi        alert                  aplaymidi              aptdcon                arptables-restore
+aa-load                alias                  apparmor_parser        apt-extracttemplates   arptables-save
+aa-remove-unknown      alsa                   apparmor_status        apt-ftparchive         as
+aa-status              alsabat                applygnupgdefaults     apt-get                aseqdump
+aa-teardown            alsabat-test           apport-bug             apt-key                aseqnet
+accessdb               alsactl                apport-cli             apt-mark               aspell
+aconnect               alsa-info              apport-collect         apt-sortpkgs           aspell-autobuildhash
+acpidbg                alsaloop               apport-unpack          ar                     aspell-import
+add-apt-repository     alsamixer              appres                 arch                   atobm
+addgnupghome           alsatplg               appstreamcli           arecord                automat-visualize3
+addgroup               alsaucm                apropos                arecordmidi            avahi-daemon
+addpart                amidi                  apt                    arm2hpdl               awk
+addr2line              amixer                 apt-add-repository     arpd                   axfer
+add-shell              anacron                apt-cache              arptables              
+adduser                apg                    apt-cdrom              arptables-nft
+

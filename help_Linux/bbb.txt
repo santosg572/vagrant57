@@ -1,0 +1,33 @@
+vagrant@vagrant:~$ b
+Display all 101 possibilities? (y or n)
+b2sum                     bmtoa                     btrfs-image               byobu-reconnect-sockets
+badblocks                 boltctl                   btrfs-map-logical         byobu-screen
+baobab                    bpftool                   btrfs-select-super        byobu-select-backend
+base32                    break                     btrfstune                 byobu-select-profile
+base64                    bridge                    builtin                   byobu-select-session
+basename                  brltty                    bunzip2                   byobu-shell
+basenc                    brltty-atb                busctl                    byobu-silent
+bash                      brltty-clip               busybox                   byobu-status
+bashbug                   brltty-ctb                bwrap                     byobu-status-detail
+bc                        brltty-hid                byobu                     byobu-tmux
+bcache-super-show         brltty-ktb                byobu-config              byobu-ugraph
+bdftopcf                  brltty-lscmds             byobu-ctrl-a              byobu-ulevel
+bdftruncate               brltty-morse              byobu-disable             bzcat
+bg                        brltty-setup              byobu-disable-prompt      bzcmp
+bind                      brltty-trtxt              byobu-enable              bzdiff
+biosdecode                brltty-ttb                byobu-enable-prompt       bzegrep
+bitmap                    brltty-tune               byobu-export              bzexe
+blkdeactivate             broadwayd                 byobu-janitor             bzfgrep
+blkdiscard                browse                    byobu-keybindings         bzgrep
+blkid                     btattach                  byobu-launch              bzip2
+blkzone                   btmgmt                    byobu-launcher            bzip2recover
+blockdev                  btmon                     byobu-launcher-install    bzless
+bluemoon                  btrfs                     byobu-launcher-uninstall  bzmore
+bluetoothctl              btrfsck                   byobu-layout              
+bluetoothd                btrfs-convert             byobu-prompt              
+bluetooth-sendto          btrfs-find-root           byobu-quiet               
+vagrant@vagrant:~$ 
+vagrant@vagrant:~$ 
+vagrant@vagrant:~$ 
+vagrant@vagrant:~$ nano bbb.txt
+

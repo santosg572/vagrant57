@@ -1,0 +1,212 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  logout
+    4  nano log2.txt
+    5  cat log2.txt 
+    6  man grep
+    7  man grep > grep.txt
+    8  cat bgr
+    9  cat grep.txt 
+   10  man sed > sed.txt
+   11  man tar
+   12  man tar > tar.txt
+   13  man a
+   14  man a*
+   15  help
+   16  help > help.txt
+   17  history
+   18  help
+   19  help sed
+   20  help help
+   21  help man
+   22  man
+   23  help man
+   24  man man
+   25  man man > man.txt
+   26  cat man.txt 
+   27  man man
+   28  ls
+   29  lman lshw
+   30  man lshw
+   31  lshw
+   32  nano aaa.txt
+   33  man as
+   34  as
+   35  nano bbb.txt
+   36  man bc
+   37  c
+   38  nano ccc.txt
+   39  man ddd.txt
+   40  nano ddd.txt
+   41  man dir
+   42  dir ddd.txt 
+   43  e
+   44  nano eee.txt
+   45  man exec
+   46  f
+   47  nano fff,txt
+   48  man fsck
+   49  nano ggg.txt
+   50  h
+   51  nano hhh.txt
+   52  i
+   53  nano iii.txt
+   54  man if
+   55  if
+   56  j
+   57  man jjj.txt
+   58  nano jjj.txt
+   59  k
+   60  nano kkk.txt
+   61  l
+   62  nano.txt
+   63  nano lll.txt
+   64  man l
+   65  l
+   66  ls
+   67  m
+   68  man mmm.txt
+   69  nano mmm.txt
+   70  man mt
+   71  n
+   72  nano nnn.txt
+   73  o
+   74  nano ooo.txt
+   75  man orca
+   76  cat ooo.txt 
+   77  nano ppp.txt
+   78  nano qqq.txt
+   79  man rrr.txt
+   80  nano rrr.txt
+   81  man rsync
+   82  s
+   83  nano sss.txt
+   84  t
+   85  nano ttt.txt
+   86  u
+   87  nano uuu.txt
+   88  man uniq
+   89  v
+   90  nano vvv.txt
+   91  w
+   92  man www.txt
+   93  nano www.txt
+   94  man which
+   95  x
+   96  man xxx.txt
+   97  nano xxx.txt
+   98  man xxx.txt 
+   99  cat xxx.txt 
+  100  y
+  101  nano yyy.txt
+  102  z
+  103  nano zzz.txt
+  104  ls
+  105  cat aaa.txt 
+  106  nano prog_help.sh
+  107  chmod u+x prog_help.sh 
+  108  ./prog_help.sh 
+  109  nano prog_help.sh
+  110  ./prog_help.sh 
+  111  ls
+  112  nano prog_help.sh
+  113  ./prog_help.sh 
+  114  mkdir MAN
+  115  nano prog_help.sh 
+  116  ./prog_help.sh 
+  117  nano aaa.txt 
+  118  ./prog_help.sh 
+  119  nano aaa.txt 
+  120  ./prog_help.sh 
+  121  nano aaa.txt 
+  122  ./prog_help.sh 
+  123  nano prog_help.sh 
+  124  ./prog_help.sh 
+  125  qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+  126  ./prog_help.sh > MAN/aaa_help.txt
+  127  cd MAN/
+  128  ls
+  129  cat aaa_help.txt 
+  130  cd ..
+  131  nano prog_help.sh 
+  132  ./prog_help.sh aaa.txt 
+  133  nano prog_help.sh 
+  134  ./prog_help.sh aaa.txt 
+  135  ./prog_help.sh "aaa.txt" 
+  136  nano prog_help.sh 
+  137  ./prog_help.sh "aaa.txt" 
+  138  nano prog_help.sh 
+  139  ./prog_help.sh "aaa.txt" 
+  140  qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+  141  nano prog_help.sh 
+  142  ./prog_help.sh 
+  143  qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
+  144  nano prog_help.sh prog_guarda.sh
+  145  cp prog_help.sh prog_guarda.sh
+  146  nano prog_guarda.sh 
+  147  logout
+  148  ip a
+  149  logout
+  150  ip a
+  151  ls
+  152  logout
+  153  ls
+  154  logout
+  155  ls
+  156  cd Videos/
+  157  ls
+  158  cd
+  159  mkdir help_Linux
+  160  mv *.txt help_Linux/.
+  161  ls
+  162  mv fff,txt fff.txt
+  163  mv *.txt help_Linux/.
+  164  ls
+  165  mv prog_* help_Linux/.
+  166  ls
+  167  cd MAN/
+  168  ls
+  169  cd
+  170  ls
+  171  rm a.out 
+  172  mv MAN help_Linux/
+  173  ls
+  174  nano baja_git.sh
+  175  chmod u+x baja_git.sh 
+  176  ./baja_git.sh vagrant57
+  177  ls
+  178  cd vagrant57/
+  179  ls
+  180  cd
+  181  ls
+  182  cp help_Linux vagrant57/.
+  183  cp -r help_Linux vagrant57/.
+  184  cd vagrant57/
+  185  cd help_Linux/
+  186  ls
+  187  cd ..
+  188  ls
+  189  cat www.txt 
+  190  sudo apt update
+  191  pwd
+  192  sudo apt install mysql-server -y
+  193  mysql --version
+  194  sudo mysql_secure_installation
+  195  sudo systemctl restart mysqld
+  196  logout
+  197  ip a
+  198  sudo systemctl status mysql
+  199  ip a
+  200  logout
+  201  sudo systemctl status mysql
+  202  ip a
+  203  ls
+  204  pwd
+  205  ls
+  206  cd vagrant57/
+  207  ls
+  208  ./sube_git.sh 
+  209  git config --global user.email "santosg572@gmail.com"
+  210  git config --global user.name "santosg572"
+  211  ./sube_git.sh 
+  212  history > history01.txt
